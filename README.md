@@ -21,7 +21,7 @@ Pour afficher les coefficients correspondant, saissisez un cashprize de 1 €.
 Le script est écrit en python et en C (fichier exécutable).
 
 ### C (.exe)
-![image](https://user-images.githubusercontent.com/66224623/224548565-087c488b-fa01-47fa-8aeb-108e16cf5d7a.png)
+<img width="500em" src="https://user-images.githubusercontent.com/66224623/224548565-087c488b-fa01-47fa-8aeb-108e16cf5d7a.png">
 
 ### Python
-![image](https://user-images.githubusercontent.com/66224623/224548740-832fa2a6-6e2a-466a-bdf6-b06cb32b083a.png)
+<img width="500em" src="https://user-images.githubusercontent.com/66224623/224548740-832fa2a6-6e2a-466a-bdf6-b06cb32b083a.png">
