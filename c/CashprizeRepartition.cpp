@@ -18,6 +18,7 @@ Pour afficher les coefficients correspondant, saissisez un cashprize de 1 €.
 */
 
 
+
 #include <stdio.h>
 #include <locale.h>
 #include <math.h>
@@ -120,5 +121,10 @@ int main() {
     printf("===================\n");
     Sleep(750 * TEMPS_ENTRE_LES_OUTPUT);
 
-    return calcul(nb_joueurs);
+    calcul(nb_joueurs);
+
+    std::cout << "\n\n" << std::endl;
+    system("PAUSE");
+
+    return 0;
 }
